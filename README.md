@@ -82,4 +82,17 @@ Quin_Assignment/
  ├── Networking/
  │    └── APIService.swift
 
+Quin_Assignment/
+ ├── screenshots/
+ │     ├── 1.png
+ │     ├── 2.png
+ │     ├── 3.png
+ ├── README.md
+
+## 📱 Screenshots
+
+
+<img src="Screenshots/1.png" width="250">
+<img src="Screenshots/2.png" width="250">
+<img src="Screenshots/3.png" width="250">
 
